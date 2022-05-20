@@ -1,0 +1,4 @@
+*.Framework filter=lfs diff=lfs merge=lfs -text
+*.google-cloud-sdk/bin/anthoscli filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+google-cloud-sdk/bin/anthoscli filter=lfs diff=lfs merge=lfs -text
